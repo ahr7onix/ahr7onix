@@ -1,15 +1,17 @@
-# Hi there, I'm Ahr7! &#x1F44B;
+# Hi there, I'm Ahr7! 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AHR7%20OFFICIAL&fontSize=90&animation=fadeIn&fontAlignY=38" alt="Banner" />
 </p>p>
 
-### &#x1F680; About Me
+---
+
+### About Me
 I'm a passionate developer focused on building modern, high-performance web applications. I love exploring new technologies and pushing the boundaries of what's possible on the web.
 
 ---
 
-### &#x1F6E0; Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -22,7 +24,7 @@ I'm a passionate developer focused on building modern, high-performance web appl
 
 ---
 
-### &#x1F4CA; GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahr7onix&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -31,10 +33,10 @@ I'm a passionate developer focused on building modern, high-performance web appl
 
 ---
 
-### &#x1F4EB; Connect with me
+### Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/ahr7onix" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>a>
     <a href="mailto:isacbuzelli3@gmail.com" target="_blank">
@@ -43,5 +45,5 @@ I'm a passionate developer focused on building modern, high-performance web appl
 </div>div>
 
 <p align="right">
-  <i>Generated with &#x2764; by Antigravity</i>i>
+  <i>Generated with love by Antigravity</i>i>
 </p>p></i>
