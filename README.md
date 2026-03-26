@@ -1,17 +1,15 @@
-# Hi there, I'm Ahr7! 
+# Ola, eu sou o Ahr7!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AHR7%20OFFICIAL&fontSize=90&animation=fadeIn&fontAlignY=38" alt="Banner" />
 </p>p>
 
----
-
-### About Me
-I'm a passionate developer focused on building modern, high-performance web applications. I love exploring new technologies and pushing the boundaries of what's possible on the web.
+### Sobre Mim
+Sou um desenvolvedor apaixonado, focado em construir aplicacoes web modernas e de alta performance. Adoro explorar novas tecnologias e superar os limites do que e possivel na web.
 
 ---
 
-### Tech Stack
+### Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -24,16 +22,16 @@ I'm a passionate developer focused on building modern, high-performance web appl
 
 ---
 
-### GitHub Stats
+### Estatisticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahr7onix&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahr7onix&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahr7onix&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatisticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahr7onix&layout=compact&theme=tokyonight&hide_border=true" alt="Principais Linguagens" />
 </p>p>
 
 ---
 
-### Connect with me
+### Conecte-se comigo
 
 <div align="center">
   <a href="https://linkedin.com/in/ahr7onix" target="_blank">
@@ -45,5 +43,6 @@ I'm a passionate developer focused on building modern, high-performance web appl
 </div>div>
 
 <p align="right">
-  <i>Generated with love by Antigravity</i>i>
-</p>p></i>
+  <i>Gerado com carinho pela Antigravity</i>i>
+</p>p>
+</i>
